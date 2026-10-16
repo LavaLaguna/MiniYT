@@ -1,0 +1,22 @@
+100 ICON "miniyt.ico"
+1 VERSIONINFO
+FILEVERSION 1,8,1,0
+PRODUCTVERSION 1,8,1,0
+FILEOS 0x4
+FILETYPE 0x1
+{
+  BLOCK "StringFileInfo"
+  {
+    BLOCK "040904B0"
+    {
+      VALUE "FileDescription", "Mini YT - lightweight YouTube player"
+      VALUE "ProductName", "Mini YT"
+      VALUE "FileVersion", "1.8.1.0"
+      VALUE "ProductVersion", "1.8.1.0"
+      VALUE "InternalName", "MiniYT"
+      VALUE "OriginalFilename", "MiniYT.exe"
+      VALUE "LegalCopyright", "Personal use"
+    }
+  }
+  BLOCK "VarFileInfo" { VALUE "Translation", 0x409, 1200 }
+}
